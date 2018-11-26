@@ -369,7 +369,7 @@ msgid "Folder"
 msgstr ""
 
 #: src/panel/ActionOptionPanel.cpp:173
-msgid "Open a folder in exlporer."
+msgid "Open a folder in explorer."
 msgstr ""
 
 #: src/panel/ActionOptionPanel.cpp:175 src/panel/ActionOptionPanel.cpp:255
